@@ -1,1 +1,1 @@
-# bike-racing-game
+# BikeRacingGame
